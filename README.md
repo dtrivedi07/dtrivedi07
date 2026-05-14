@@ -8,7 +8,7 @@ Cybersecurity Graduate | IAM Security Analyst | Application Security & Vulnerabi
   <a href="mailto:trivedidevanshu99@gmail.com">
     <img src="https://img.shields.io/badge/Email-trivedidevanshu99%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/devanshu-trivedi0799/" target="_blank">
+  <a href="https://linkedin.com/in/dtrivedi99/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Devanshu%20Trivedi-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://devanshutrivedi.vercel.app" target="_blank">
