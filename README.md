@@ -154,19 +154,6 @@ A collection of Python scripts for repeatable security tasks and automation.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dtrivedi07&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtrivedi07&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dtrivedi07&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/dtrivedi99/
