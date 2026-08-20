@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Devanshu Trivedi</h1>
 
-<h3 align="center">
-IAM Security Analyst | Identity & Access Management | Okta, SAML/OIDC SSO, CA SiteMinder | M.S. Cybersecurity, UNC Charlotte
+<h3 align="center">IAM Security Analyst | Identity & Access Management</h3>
+<p align="center">Okta &nbsp;•&nbsp; SAML/OIDC SSO &nbsp;•&nbsp; CA SiteMinder &nbsp;•&nbsp; M.S. Cybersecurity, UNC Charlotte</p>
+
+<br/>
 
 <p align="center">
   <a href="mailto:trivedidevanshu99@gmail.com">
     <img src="https://img.shields.io/badge/Email-trivedidevanshu99%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/dtrivedi99/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Devanshu%20Trivedi-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://devanshutrivedi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-devanshutrivedi.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -19,7 +23,7 @@ IAM Security Analyst | Identity & Access Management | Okta, SAML/OIDC SSO, CA Si
 
 ## 👨‍💻 About Me
 
-I am a cybersecurity graduate from the University of North Carolina at Charlotte with a **3.90 GPA** and **3+ years of experience** administering **Identity and Access Management infrastructure for enterprise environments, including SSO, federation, directory services, and access control**.
+I am a cybersecurity graduate from the University of North Carolina at Charlotte with a **3.90 GPA** and **3+ years of experience** administering **Identity and Access Management infrastructure for 300,000+ enterprise users**, including SSO, federation, directory services, and access control. I reduced IAM downtime **40%** and improved authentication performance **15%** through root-cause remediation of federation and directory issues.
 
 My background combines enterprise IAM experience from **Tata Consultancy Services (TCS), India**, administering **CA SiteMinder, CA Identity Manager, and CA Directory**, with hands-on projects extending that experience into **Okta, secure authentication, Active Directory security, and identity-focused security monitoring**.
 
@@ -40,6 +44,7 @@ My background combines enterprise IAM experience from **Tata Consultancy Service
 <p>
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA3B2E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CompTIA-PenTest%2B-2E86AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microsoft-SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
 ---
@@ -49,6 +54,7 @@ My background combines enterprise IAM experience from **Tata Consultancy Service
 ### 🔐 Identity & Access Management
 
 <p>
+  <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white"/>
   <img src="https://img.shields.io/badge/CA%20SiteMinder-003366?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CA%20Identity%20Manager-005F73?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CA%20Directory-0A9396?style=for-the-badge"/>
@@ -109,7 +115,7 @@ My background combines enterprise IAM experience from **Tata Consultancy Service
 
 ## 📌 Featured Projects
 
-### 🔐 IAM & SSO Security Project
+### 🔐 Hybrid Okta Identity Lifecycle and SSO Implementation Project
 
 Identity-focused project based on enterprise IAM concepts and secure authentication workflows.
 
@@ -120,9 +126,9 @@ Identity-focused project based on enterprise IAM concepts and secure authenticat
 
 ---
 
-### 🚀 CyberCorp Lab: Enterprise Identity & Detection Lab
+### 🚀 Enterprise Identity Security and Detection Project
 
-An enterprise identity and security lab designed to simulate identity, detection, and defense workflows across segmented networks.
+Built as part of CyberCorp Lab: an enterprise identity and security lab designed to simulate identity, detection, and defense workflows across segmented networks.
 
 - Built a segmented lab environment with **pfSense, Active Directory, VPN, DMZ, vulnerable applications, Windows/Linux systems, and monitoring tools**
 - Simulated attack paths involving **phishing, VPN access, SQL injection, privilege escalation, lateral movement, and Active Directory compromise**
